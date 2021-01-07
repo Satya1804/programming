@@ -1,6 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class ExptHandling
+public class Expt_13
 {
    public static void main(String args[])
    {
