@@ -3,7 +3,7 @@
 package pack;
 import java.util.Scanner;
 
-public class Currency{
+public class Expt_12{
 	public static void main(String[] args){
 	
 		Xcurrency c= new Xcurrency();
