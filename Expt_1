@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-class Invoice{
+class Expt_1{
         //Define instance variables here
         private String number;
         private String description;
