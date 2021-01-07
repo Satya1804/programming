@@ -1,7 +1,7 @@
 import java.util.Random;
 
 
-public class Expt_13 {
+public class Expt_15 {
  public static void main(String args[])
  {
   Number n = new Number();
