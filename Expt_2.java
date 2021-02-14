@@ -10,7 +10,7 @@ public class Expt_2 {
     private String typeConnection;
     
     // Constructor
-    public Main (String cNo, String cName, String typeCon, int prvMonthReading, int curMonthReading) {
+    public Expt_2(String cNo, String cName, String typeCon, int prvMonthReading, int curMonthReading) {
         consumerNo = cNo;
         consumerName = cName;
         typeConnection = typeCon;
@@ -98,7 +98,7 @@ public class Expt_2 {
     
     // Driver Code 
     public static void main (String[] args) {
-        Main m = new Main("19BQ1A05I4", "Satya", "Commercial", 5000, 5600);
+        Expt_2 m = new Expt_2("19BQ1A05I4", "Satya", "Commercial", 5000, 5600);
         
         // Printing Details
         System.out.println("Customer ID: " + m.getConsumerNo());
