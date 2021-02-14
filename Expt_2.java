@@ -83,7 +83,7 @@ public class Expt_2 {
                 amount = units * 2; 
             }
             else if (units <= 200) {
-                amount = 100 + (units - 100) * 2.50;
+                amount = 100 + (units - 100) * 4.50;
             }
             else if (units <= 500) {
                 amount = 100 * 2 + 100 * 4.50 + (units - 200) * 6;
